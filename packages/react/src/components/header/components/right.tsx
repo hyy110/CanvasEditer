@@ -151,11 +151,7 @@ export const Right: FC<{
           <IconDown />
         </Button>
       </Dropdown>
-      <a
-        className={styles.github}
-        target="_blank"
-        href={"https://github.com/WindrunnerMax/CanvasEditor"}
-      >
+      <a className={styles.github} target="_blank" href={"https://github.com/hyy110/CanvasEditer"}>
         <IconGithub />
       </a>
     </div>
